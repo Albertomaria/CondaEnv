@@ -1,0 +1,84 @@
+# packages in environment at /home/alberto/anaconda3/envs/RNAseq:
+#
+# Name                    Version                   Build  Channel
+bamtools                  2.5.1                he941832_3    bioconda
+bcftools                  1.9                  h47928c2_1    bioconda
+bedtools                  2.27.1               he860b03_3    bioconda
+blas                      1.0                         mkl  
+bowtie                    1.2.2            py36h2d50403_1    bioconda
+bowtie2                   2.3.4.3          py36he860b03_1    bioconda
+bz2file                   0.98                       py_0    conda-forge
+bzip2                     1.0.6                h470a237_2    conda-forge
+ca-certificates           2018.11.29           ha4d7672_0    conda-forge
+certifi                   2018.11.29            py36_1000    conda-forge
+curl                      7.62.0               hbc83047_0  
+cutadapt                  1.18                     py36_0    bioconda
+cycler                    0.10.0                     py_1    conda-forge
+dbus                      1.13.2               h714fa37_1  
+expat                     2.2.5             hf484d3e_1002    conda-forge
+fastqc                    0.11.8                        1    bioconda
+font-ttf-dejavu-sans-mono 2.37                 h6964260_0  
+fontconfig                2.13.1               h65d0f4c_0    conda-forge
+freetype                  2.9.1                h6debe1e_4    conda-forge
+gettext                   0.19.8.1          h9745a5d_1001    conda-forge
+glib                      2.56.2            had28632_1001    conda-forge
+gst-plugins-base          1.14.0               hbbd80ab_1  
+gstreamer                 1.14.0               hb453b48_1  
+hisat2                    2.1.0            py36h2d50403_1    bioconda
+htseq                     0.11.2           py36h637b7d7_1    bioconda
+htslib                    1.9                  h47928c2_5    bioconda
+icu                       58.2                 hfc679d8_0    conda-forge
+intel-openmp              2019.1                      144  
+jpeg                      9c                h14c3975_1001    conda-forge
+kiwisolver                1.0.1           py36h6bb024c_1002    conda-forge
+krb5                      1.14.6                        0    conda-forge
+libcurl                   7.62.0               h20c2e04_0  
+libdeflate                1.0                  h470a237_0    bioconda
+libedit                   3.1.20170329         haf1bffa_1    conda-forge
+libffi                    3.2.1                hfc679d8_5    conda-forge
+libgcc-ng                 7.3.0                hdf63c60_0    conda-forge
+libgfortran-ng            7.2.0                hdf63c60_3    conda-forge
+libiconv                  1.15                 h470a237_3    conda-forge
+libpng                    1.6.36               ha92aebf_0    conda-forge
+libssh2                   1.8.0                         1    conda-forge
+libstdcxx-ng              7.3.0                hdf63c60_0    conda-forge
+libuuid                   2.32.1               h470a237_2    conda-forge
+libxcb                    1.13              h14c3975_1002    conda-forge
+libxml2                   2.9.8                h422b904_5    conda-forge
+matplotlib                3.0.2                 py36_1002    conda-forge
+matplotlib-base           3.0.2           py36h167e16e_1002    conda-forge
+mkl                       2019.1                      144  
+mkl_fft                   1.0.10           py36h14c3975_1    conda-forge
+mkl_random                1.0.2            py36h637b7d7_2    conda-forge
+ncurses                   6.1                  hfc679d8_2    conda-forge
+numpy                     1.15.4           py36h7e9f1db_0  
+numpy-base                1.15.4           py36hde5b4d6_0  
+openjdk                   11.0.1              h470a237_14    conda-forge
+openssl                   1.1.1a            h14c3975_1000    conda-forge
+pcre                      8.42                 h439df22_0  
+perl                      5.26.2               h470a237_0    conda-forge
+pigz                      2.3.4                         0    conda-forge
+pip                       18.1                  py36_1000    conda-forge
+pthread-stubs             0.4               h14c3975_1001    conda-forge
+pyparsing                 2.3.1                      py_0    conda-forge
+pyqt                      5.6.0           py36h13b7fb3_1008    conda-forge
+pysam                     0.15.2           py36h1671916_1    bioconda
+python                    3.6.8                h0371630_0  
+python-dateutil           2.8.0                      py_0    conda-forge
+qt                        5.6.3                h8bf5577_3  
+readline                  7.0                  haf1bffa_1    conda-forge
+samtools                  1.9                  h8ee4bcc_1    bioconda
+setuptools                40.6.3                   py36_0    conda-forge
+sip                       4.18.1          py36hf484d3e_1000    conda-forge
+six                       1.12.0                py36_1000    conda-forge
+sqlite                    3.26.0               hb1c47c0_0    conda-forge
+star                      2.7.0b                        0    bioconda
+tbb                       2019.3            h6bb024c_1000    conda-forge
+tk                        8.6.9                ha92aebf_0    conda-forge
+tornado                   5.1.1           py36h14c3975_1000    conda-forge
+wheel                     0.32.3                   py36_0    conda-forge
+xopen                     0.3.5                      py_0    bioconda
+xorg-libxau               1.0.9                h14c3975_0    conda-forge
+xorg-libxdmcp             1.1.2             h14c3975_1007    conda-forge
+xz                        5.2.4                h470a237_1    conda-forge
+zlib                      1.2.11               h470a237_3    conda-forge
